@@ -40,10 +40,10 @@ The CSV file contains more than 34,000 charities that are already funded over th
 ## Compiling, Training, and Evaluating the Model
 * How many neurons, layers, and activation functions did you select for your neural network model, and why?<br>
     First hidden layer has five units and second hidden layer has three units along with Relu activation network model. Relu looks into linear relationship(which is a default for the first layer as well). I am only looking into if the charity would be successful or not, so classification model is useful. For the ouput, to see the probability Sigmoid activation is used.
-<br>
+
 * Were you able to achieve the target model performance?<br>
     Unfortunately performance has not improved, more time and research is needed.
-    <br>
+    
 * What steps did you take to try and increase model performance?<br>
     I have added additional hidden layers and changed the number of units; however, results did not improved.
     <br>
